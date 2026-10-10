@@ -1,7 +1,6 @@
 # Snake Game 🐍
 
-The classic Snake game in Python, made with the `turtle` module.
-A learning project from 2023, when I started programming in Python.
+Your classic Snake game in Python, made with the `turtle` module.
 
 ## How to play
 - Use the **arrow keys** to steer the snake
